@@ -12,5 +12,9 @@ document.getElementById("plan").addEventListener("change", function () {
     }
   
     document.getElementById("commitment").value = value;
+<<<<<<< HEAD
   });
 
+=======
+  });
+>>>>>>> 20abc50 (updated dispatch frontend with API fetch)
